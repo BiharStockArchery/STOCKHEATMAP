@@ -2,5 +2,6 @@ Flask==2.1.2
 Flask-Cors==5.0.0
 yfinance==0.2.52
 apscheduler==3.8.1
-pytz==2021.1
+pytz>=2022.5
+
 
